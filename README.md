@@ -1,7 +1,7 @@
 # Mobile Sales Performance Analysis
 
 ### Project Overview
-This project analyses a mobile store sales dataset to uncover key business insights around revenue perforance, inventory efficiency, regional trends, and product specifications.
+This project analyses a mobile store sales dataset to uncover key business insights around revenue performance, inventory efficiency, regional trends, and product specifications.
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "gadget_store_sales.xlsx" file, containing detailed information about each sale made by the company.
